@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sisodiasubhangi@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1riqtBkvMH55DEC-L6yEsBs_Oovqr-flP/view?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1tCFTtxJsuxLH3znJu92MzaUq_308FAdk/view?usp=share_link)
 - 👨‍💻Check out my Projects [Portfolio](https://shubhangisisodia.github.io/)
 
 <h3 align="left">Connect with me:</h3>
