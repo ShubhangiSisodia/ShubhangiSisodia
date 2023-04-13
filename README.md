@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangisisodia&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangisisodia" /> </p>
 
-- 🌱 I’m currently learning **Node.js , Mongo DB , Express**
+- 🌱 I’m currently learning **Reactjs , Node.js , Experss ,  MongoDB**
 
-- 💬 Ask me about **JavaScript , CSS ,HTML & Node.js**
+- 💬 Ask me about **JavaScript , CSS ,HTML & Node.js (MERN Stack)**
 
 - 📫 How to reach me **sisodiasubhangi@gmail.com**
 
