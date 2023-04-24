@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangisisodia&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangisisodia" /> </p>
 
-- 🌱 I’m currently learning **Reactjs , Nextjs and Vuejs**
+- 🌱 I’m currently learning **NextJs and VueJs**
 
-- 💬 Ask me about **JavaScript , CSS ,HTML & Node.js (MERN Stack)**
+- 💬 Ask me about **JavaScript, CSS, HTML, React & TailwindCSS**
 
 - 📫 How to reach me **sisodiasubhangi@gmail.com**
 
