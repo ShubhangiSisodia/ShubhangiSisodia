@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 💬 Ask me about **JavaScript, CSS, HTML, React & TailwindCSS**
+- 💬 Ask me about **JavaScript, CSS, HTML, React, Redux & TailwindCSS**
 
 - 📫 How to reach me **sisodiasubhangi@gmail.com**
 
