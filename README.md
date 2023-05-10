@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangisisodia&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangisisodia" /> </p>
 
-- 🌱 I’m currently learning **VueJs**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript, CSS, HTML, React, Redux & TailwindCSS**
 
